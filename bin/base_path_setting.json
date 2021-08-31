@@ -1,0 +1,11 @@
+{
+    "project_root": "cc_web_mobile/web-mobile",
+    "index_html_path": "cc_web_mobile/web-mobile/index.html",
+    "style_css": "cc_web_mobile/web-mobile/style-mobile.css",
+    "out_file": "publish/index.html",
+    "splash_path": "cc_web_mobile/web-mobile/splash.png",
+    "setting_js_path": "cc_web_mobile/web-mobile/src/settings.js",
+    "main_js_path": "cc_web_mobile/web-mobile/main.js",
+    "ccjs_path": "cc_web_mobile/web-mobile/cocos2d-js-min.js",
+    "physicsJs_path": "cc_web_mobile/web-mobile/physics-min.js"
+}

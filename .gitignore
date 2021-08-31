@@ -1,0 +1,6 @@
+
+*.pyc
+build/main/xref-main.html
+build
+web-mobile
+log
